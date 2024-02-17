@@ -1,3 +1,4 @@
+-- Crescita Personale
 Eckhart Tolle - Un nuovo mondo  Riconosci il vero senso della tua vita - Mondadori
 Eckhart Tolle - Il potere di adesso Una guida all'illuminazione spirituale - My Life
 Eckhart Tolle - Come mettere in pratica il potere di adesso - My Life
@@ -10,3 +11,8 @@ Richard Poe - La nuova era nel network marketing. Wave 3 - Gribaudi
 Jessica Bruder - Nomadland - Clichy
 Andrea Colamedici, Maura Gancitano - Ma chi me lo fa fare? - HarperCollins Italia
 Flavio Cabrini, Ugo Ravaioli - Batti il tempo. Tre passi per avere tempo per le cose importanti - OSM Network
+
+-- Economia
+Francesco Carbone - Prevedibile e inevitabile. La crisi dell'interventismo. Le cause del disastro e i rimedi possibili - USEMLAB
+Luca Bagato, Patrizia Bussoli - Investire con le obbligazioni. Conoscere gli strumenti e valutare i rischi - Hoepli
+Andrea de Marchi - Inflazione Malattia Primaria - USEMLAB
