@@ -23,6 +23,7 @@ Jeff Benedict - LeBron. La storia di LeBron James - TEA
 Simone Marcuzzi - Kobe La meravigliosa, incredibile e tragica storia del Black Mamba - Piemme
 Stuart Barker - Valentino Rossi. La biografia - Giunti Editore
 Jon Krakauer - Nelle terre estreme - Corbaccio
+
 -- Economia
 Francesco Carbone - Prevedibile e inevitabile. La crisi dell'interventismo. Le cause del disastro e i rimedi possibili - USEMLAB
 Andrea de Marchi - Inflazione Malattia Primaria - USEMLAB
@@ -44,9 +45,10 @@ Stefano Mayorca - La magia etrusca. Misteri, simboli e riti - De Vecchi
 Jean Paul Thuiller - Gli etruschi. La prima civiltà italiana - Lindau
 Attilio Mastino - Storia della Sardegna antica - Il Maestrale
 Giovanni Lilliu - Sardegna nuragica - Il Maestrale
+Stefano Mayorca - La magia etrusca. Misteri, simboli e riti - De Vecchi
+Marina Montesano - Streghe. Le origini, il mito, la storia - De Vecchi
 
 -- Produzione indipendente
-
 Shanmei - Come diventare una book blogger
 Shanmei - Delitto a bordo del Giava. In navigazione per la Cina
 Shanmei - Due coltelli
@@ -63,6 +65,8 @@ Shanmei - Ritorno a casa
 Shanmei - Tre mesi in Giappone
 Alessandro Girola - Hirpi Sorani
 Alessandro Girola - Moto Perpetuo
+Alessandro Girola - Oltre la porta rossa
+Alessandro Girola - Pegea
 Alessandro Girola - Tra i fiumi
 Alessandro Girola - Grexit Apocalypse
 Alessandro Girola - I fantasmi delle pandemie passate
