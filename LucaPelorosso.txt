@@ -74,6 +74,7 @@ Shanmei - La Straniera
 Shanmei - Le paludi di Baton Rouge
 Shanmei - Ritorno a casa
 Shanmei - Tre mesi in Giappone
+Shanmei - Un blues per Dave
 Alessandro Girola - Hirpi Sorani
 Alessandro Girola - Moto Perpetuo
 Alessandro Girola - Oltre la porta rossa
@@ -95,12 +96,13 @@ Davide Mana - La notte dei cacciatori
 Davide Mana - La misura del tempo geologico
 Davide Mana - Palmyra, l'atollo maledetto
 Davide Mana - Tyrannosaurus Tex
-Patrizio Corda - Irene d'Atene. L'imperatrice Mantide
-Patrizio Corda - Romolo Augusto. L'ultimo Cesare
-Patrizio Corda - Foca
 Patrizio Corda - Aquila - Historia Romana vol. 6 
 Patrizio Corda - Costantino III. Rex Britannorum
 Patrizio Corda - Costantino XI Paleologo. Basileus
+Patrizio Corda - Foca
+Patrizio Corda - Irene d'Atene. L'imperatrice Mantide
+Patrizio Corda - Romolo Augusto. L'ultimo Cesare
+Patrizio Corda - Pitea. Il figlio degli oceani
 Stefano Paradisi - Sangue sul colle di Superga: Un'indagine di Chiara Paradisi
 Stefano Paradisi - La notte della bufera: Le indagini di Moser e Paradisi - volume 1
 Stefano Paradisi - Minaccia dai Balcani: Le indagini di Moser e Paradisi - volume 2
