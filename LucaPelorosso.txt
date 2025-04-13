@@ -50,12 +50,12 @@ Andrea Scanzi - Salvimaio - Paper First
 Benny Morris, Ian Black - Mossad
 Carlo Lucarelli, Massimo Picozzi - Serial Killer - Mondadori
 Cristina Gianotti - Connecting dots. Il networking, questo sconosciuto - bookabook
+Dacia Maraini - In nome di Ipazia. Riflessioni sul destino femminile
 Don Andrea Gallo, Loris Mazzetti -  La profezia del don - PaperFirst
 Yuval Noah Harari - Sapiensa da animali a dèi
 Rick Dufer - Spinoza e popcorn: Da Game of Thrones a Stranger Things, capire la filosofia sparandosi un film o una serie TV - De Agostini
+Riccardo Iacona - Se questi sono gli uomini. La strage delle donne - Chiarelettere
 Simona Recanatini - Io sono l'Alzheimer - Gribaudo
-Dacia Maraini - In nome di Ipazia. Riflessioni sul destino femminile
-Paul Zanker - La città romana
 
 
 -- Storia
@@ -74,7 +74,7 @@ Luigi Malnati, Valerio Massimo Manfredi - Gli etruschi in Val Padana - Mondadori
 Stefano Mayorca - La magia etrusca. Misteri, simboli e riti - De Vecchi
 Jean Paul Thuiller - Gli etruschi. La prima civiltà italiana - Lindau
 Giovanni Lilliu - Sardegna nuragica - Il Maestrale
-Stefano Mayorca - La magia etrusca. Misteri, simboli e riti - De Vecchi
+Paul Zanker - La città romana
 Valerio Massimo Manfredi - I Greci d'Occidente - Mondadori
 
 -- Horror
