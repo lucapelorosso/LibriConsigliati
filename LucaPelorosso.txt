@@ -94,6 +94,8 @@ Danilo Arona - Il ritorno di Pazuzu - scheletri.com
 Danilo Arona - Il collassatore - Delog Digital
 Danilo Arona & Micol Des Gouges - L'autunno di Montebuio - Nero Press
 Danilo Arona - L'orologio con le lancette che girano al contrario - scheletri.com
+Danilo Arona - L'autunno di Montebuio - Nero Press
+Danilo Arona - Oscure Varianti - Scheletri Ebook
 Decimo Tagliapietra - Cuore - Scheletri.com
 Decimo Tagliapietra - L'escursione - Scheletri.com
 Laura Costantini & Loredana Falcone - L'intruso - Plutonia Publications
@@ -101,6 +103,7 @@ Luigi Musolino - Eredità di carne - Acheron Books
 Luigi Musolino - Oscure regioni: Racconti dell'orrore vol. 1 - Wild Boar Edizioni
 Luigi Musolino - Oscure regioni, volume 2 - Rill
 Luigi Musolino - Un buoi diverso - Hypnos
+Marco Siena - La vedova - Svanire Stories
 Michele Borgogni - Quel che ti dona il bosco - Spaghetti Weird
 
 -- Delos Digital
@@ -135,9 +138,11 @@ Shanmei - I racconti di Shanmei #Vol4
 Shanmei - Il fermaglio di giada
 Shanmei - Il mistero del Mandarino calunniato
 Shanmei - Il mistero della fenice d'oro. Sotto il cielo di Pechino
+Shanmei - Interviste (im)perfette: A tu per tu con gli scrittori
 Shanmei - La Straniera
 Shanmei - Le Diecimila Lame della Vendetta 
 Shanmei - Le paludi di Baton Rouge
+Shanmei - Noi vivi: L'ultima indagine del Generale Luigi Bianchi
 Shanmei - Ritorno a casa
 Shanmei - Tre mesi in Giappone
 Shanmei - Un blues per Dave
@@ -167,7 +172,6 @@ Alessandro Girola - Moto Perpetuo
 Alessandro Girola - Nei canali
 Alessandro Girola - Oltre la porta rossa
 Alessandro Girola - Pegea
-Alessandro Girola - Tra i fiumi
 Alessandro Girola - Il Negromante e l'Ulano (La stagione delle Madri Vol. 1)
 Alessandro Girola - La Strega e l'Ulano (La stagione delle Madri Vol. 2)
 Alessandro Girola - La casa sospesa sul nulla
@@ -175,8 +179,11 @@ Alessandro Girola - La Casa che ritorna dal nulla (La Casa sospesa sul nulla)
 Alessandro Girola - Il Cavaliere e la Reliquia (Il ciclo del cavaliere) (Italian Edition)
 Alessandro Girola - Il Cavaliere e l'Unicorno (Il ciclo del cavaliere Vol. 2) (Italian Edition)
 Alessandro Girola - Il Tempio della Luna (Il ciclo del cavaliere) 
-Alessandro Girola - Il Patto degli Empi (Il ciclo del cavaliere) 
+Alessandro Girola - Il Patto degli Empi (Il ciclo del cavaliere)
+Alessandro Girola - Il Verbo degli Assenti (Il ciclo del cavaliere)
 Alessandro Girola - Teurgia di San Febo
+Alessandro Girola - Tra i fiumi
+Alessandro Girola - Un lavoro facile
 Davide Mana - Blooper
 Davide Mana - Buscafusco: Santi & Fattucchiere
 Davide Mana - Chi ha nelle mani ha vinto
@@ -187,6 +194,7 @@ Davide Mana - La misura del tempo geologico
 Davide Mana - Palmyra, l'atollo maledetto
 Davide Mana - Tyrannosaurus Tex
 Decimo Tagliapietra - L'escursione
+Decimo Tagliapietra - Kernel
 Fabrizio Borgio - Codice Nero
 Fabrizio Borgio - M3
 Fabrizio Borgio - La Seratona: Maschi_nä
