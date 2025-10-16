@@ -131,6 +131,9 @@ History Crime - Fiorella Bonin - Io vi ucciderò
 Innsmouth - Fiorella Bonin - Nero Veneziano
 Innsmouth - Fiorella Bonin - La sesta vocale
 
+-- Raccolte
+Bibi Book - Dipendenze
+
 -- Produzione indipendente
 Shanmei - Come diventare una book blogger
 Shanmei - Delitto a bordo del Giava. In navigazione per la Cina
