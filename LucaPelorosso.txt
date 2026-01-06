@@ -54,6 +54,7 @@ Dario Fabbri - Domino. Rivista sul mondo che cambia. Furore
 Alessandra Beltrani - Nati per camminare - Ediciclo Editore
 Diego Passoni - Quel che resta di Santiago - Sonzogno
 
+
 -- Saggi
 Andrea Franzoso - Il disobbediente - Paper First
 Andrea Scanzi - Salvimaio - Paper First
@@ -150,6 +151,9 @@ Newton Compton Editori - G.K. Chesterton -  Tutti i racconti gialli e tutte le i
 Mondadori - Autori Vari - Strani mondi
 Mondadori - Autori Vari - Temponauti
 
+-- Varie
+Ermanno Bosco - Voci dal cratere. Il cammino nelle Terre mutate da Fabriano a L'Aquila dopo il terremoto - Ediciclo Editore
+Michele Castelnovo - Una storia ancora da scrivere - Leucotea
 
 -- Produzione indipendente
 Shanmei - Come diventare una book blogger
